@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Path 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="26.2988281%" y1="-49.262779%" x2="65.6640625%" y2="83.1200335%" id="linearGradient-1">
+            <stop stop-color="#00FFFD" offset="0%"></stop>
+            <stop stop-color="#00A1FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M8,1.81818182 L15.5,0 C16.4492394,1.38071187 18.3380381,1.73048941 19.71875,0.78125 C20.0247903,0.5708473 20.2895973,0.30604029 20.5,0 L20.5,0 L28,1.81818182 L28,8.18181818 L24.3530135,8.18181818 L24.3530135,20 L11.6469865,20 L11.6469865,8.18181818 L8,8.18181818 L8,1.81818182 Z" id="path-2"></path>
+        <filter x="-35.0%" y="-25.0%" width="170.0%" height="170.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="OutilDeVisualisation_FINAL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SkillCorner_Produit_TailleStandard_LineUp" transform="translate(-92.000000, -124.000000)">
+            <g id="Group" transform="translate(1.000000, 10.000000)">
+                <g id="OUTILS/player_team_1" transform="translate(87.000000, 116.000000)">
+                    <g id="Path-3">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
